@@ -1,3 +1,4 @@
+# Simple code that flips a coin
 import random
 import itertools
 
